@@ -19,8 +19,8 @@
 
 ### 1. Клонируйте репозиторий
 ```
-git clone https://github.com/yourusername/rsyslog-mikrotik.git
-cd rsyslog-mikrotik
+git clone https://github.com/EjenTek/Mikrotik-logs-to-Rsyslog-in-docker.git
+cd Mikrotik-logs-to-Rsyslog-in-docker/rsyslog/
 ```
 
 ### 2. Запустите контейнер rsyslog
